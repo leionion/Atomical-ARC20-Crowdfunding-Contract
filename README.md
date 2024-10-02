@@ -90,10 +90,10 @@ event Approval(address indexed _owner, address indexed _spender, uint256 _value)
 **MUST** trigger on any successful call to `approve(address _spender, uint256 _value)`.
 
 
-## 3. A sample ARC20 Contract
+### 3. A sample ARC20 Contract
 [ARC20_Crowdfunding_Contract.sol](ARC20_Crowdfunding_Contract.sol)
 
-## Contact Info:
+### Contact Info:
 If you have technical issues & development inquiries, please contact me.
 
 Twitter: https://x.com/chain_sats/
